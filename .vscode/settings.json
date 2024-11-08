@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#00a98f",
+    "editorHoverWidget.background": "#10151d10",
+    "editorLineNumber.activeForeground": "#00a98f",
+    "menu.background": "#262c3661",
+    "menu.selectionBackground": "#3e465377",
+    "menu.separatorBackground": "#3e434d9f",
+    "quickInput.background": "#10151d10",
+    "terminalCursor.foreground": "#00a98f",
+    "terminal.background": "#00000000",
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  }
+}
